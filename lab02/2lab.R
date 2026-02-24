@@ -1,11 +1,7 @@
-# Установи библиотеки, если их нет:
-# install.packages("shiny")
-# install.packages("shinythemes")
-
 library(shiny)
 library(shinythemes)
 
-# --- 1. ФИЗИЧЕСКАЯ ЛОГИКА (БЕЗ ИЗМЕНЕНИЙ) ---
+# --- 1. ФИЗИЧЕСКАЯ ЛОГИКА 
 simulate_heat <- function(tau, h, total_time = 2) {
   rho <- 7800; c_val <- 460; lambda <- 46; L <- 0.1
   Ta <- 100; Tn <- 20; T0 <- 20
@@ -34,11 +30,10 @@ simulate_heat <- function(tau, h, total_time = 2) {
   return(list(x = x_points, temp = T_curr))
 }
 
-# --- 2. СТИЛЬНЫЙ ИНТЕРФЕЙС (UI) ---
 ui <- fluidPage(
-  theme = shinytheme("flatly"), # Используем стильную тему Flatly
+  theme = shinytheme("flatly"), 
   
-  # Кастомный CSS для красоты
+  # Кастомный CSS 
   tags$head(
     tags$style(HTML("
       body { background-color: #f4f7f6; }
@@ -95,7 +90,7 @@ server <- function(input, output) {
     res2 <- simulate_heat(input$tau2, input$h_val)
     res3 <- simulate_heat(input$tau3, input$h_val)
     
-    # Красивый график
+    # график
     output$comparePlot <- renderPlot({
       par(mar = c(5, 5, 4, 2) + 0.1)
       plot(res1$x, res1$temp, type="l", col="#e74c3c", lwd=3, 
@@ -133,4 +128,5 @@ server <- function(input, output) {
 }
 
 # Запуск
+
 shinyApp(ui = ui, server = server)
