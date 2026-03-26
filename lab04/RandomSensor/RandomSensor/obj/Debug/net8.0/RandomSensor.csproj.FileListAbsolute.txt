@@ -1,0 +1,14 @@
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\bin\Debug\net8.0\RandomSensor.exe
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\bin\Debug\net8.0\RandomSensor.deps.json
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\bin\Debug\net8.0\RandomSensor.runtimeconfig.json
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\bin\Debug\net8.0\RandomSensor.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\bin\Debug\net8.0\RandomSensor.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.AssemblyInfoInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.AssemblyInfo.cs
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\refint\RandomSensor.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\RandomSensor.genruntimeconfig.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\RandomSensor\RandomSensor\obj\Debug\net8.0\ref\RandomSensor.dll
