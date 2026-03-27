@@ -132,7 +132,8 @@ namespace RandomSensor
 
 ## Скриншот
 
-<img width="1473" height="758" alt="image" src="https://github.com/user-attachments/assets/5791c63e-5272-4c66-9495-074fb6643dd1" />
+<img width="1474" height="753" alt="image" src="https://github.com/user-attachments/assets/9deab7ff-0e16-4abe-b20c-d5873718eb10" />
+
 
 
 ---
