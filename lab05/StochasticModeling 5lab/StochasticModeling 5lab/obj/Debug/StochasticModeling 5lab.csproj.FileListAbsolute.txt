@@ -1,0 +1,11 @@
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling 5lab.csproj.AssemblyReference.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\lab5.Form1.resources
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling_5lab.Properties.Resources.resources
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling 5lab.csproj.GenerateResource.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling 5lab.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\bin\Debug\StochasticModeling 5lab.exe.config
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\bin\Debug\StochasticModeling 5lab.exe
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\bin\Debug\StochasticModeling 5lab.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling 5lab.exe
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling 5lab.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\StochasticModeling 5lab\StochasticModeling 5lab\obj\Debug\StochasticModeling 5lab.exe.config
