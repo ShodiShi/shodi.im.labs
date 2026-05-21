@@ -1,0 +1,16 @@
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.Form1.resources
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.csproj.GenerateResource.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.AssemblyInfoInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.AssemblyInfo.cs
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\bin\Debug\net8.0-windows\LabPoisson.exe
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\bin\Debug\net8.0-windows\LabPoisson.deps.json
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\bin\Debug\net8.0-windows\LabPoisson.runtimeconfig.json
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\bin\Debug\net8.0-windows\LabPoisson.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\bin\Debug\net8.0-windows\LabPoisson.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\refint\LabPoisson.dll
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.pdb
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\LabPoisson.genruntimeconfig.cache
+C:\Users\Мухаммадамин\Desktop\Им.мод\LabPoisson\LabPoisson\obj\Debug\net8.0-windows\ref\LabPoisson.dll
